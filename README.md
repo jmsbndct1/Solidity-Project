@@ -1,11 +1,17 @@
-# Solidity-Project
+ Final_Project-Solidity
+# Create My Own Token
+To simply mint and burn a token you should creat a contract to reflect the current supply.
 
-Create My Own Token (Solidity Course Final Project)
-A contract that simply mints and burns a Token and reflects the current supply of it.
+# Description
+- Mapping it simply returns the current token balance from a specific address.
+- Contract will help to demonstrates minting and burning function of the etherium platform.
+- The purpose of conditional statement, it will help to prevent burning more than the current token supply. 
 
-Description
-This contract demonstrates the minting and burning function of the etherium platform, we put in a conditional statement to prevent us from burning more than the current token supply that we have.
+# Executing Program
+- After completing all the functions you should try to test it.
+- Click the compile on the Remix IDE. 
+- After compiling, click deploy then the code will run and you can try to mint and burn a token.
 
-Executing program
-After coding, simply click compile on the Remix IDE
-After compiling click deploy then the code will run.
+# Author
+James Benedict P. Ariola
+3.1BSIT
